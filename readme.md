@@ -15,7 +15,7 @@ This Python script is a simple port scanner that can scan all ports, a specific 
 
 ## Prerequisites
 
-Before using the script, make sure you have **Python 3.x** installed on your system. You will also need to install the `socket` and `argparse` libraries, which are part of the standard Python library, so no additional installation is necessary.
+Before using the script, make sure you have **Python 3.x** installed on your system. 
 
 ---
 
